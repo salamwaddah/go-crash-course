@@ -4,4 +4,5 @@ func main() {
 	variables()
 	primatives()
 	constants()
+	arrays()
 }
