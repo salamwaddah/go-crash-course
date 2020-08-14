@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func primatives() {
 	bt := 1 == 1
 	bf := 1 == 2
 	fmt.Printf("%v, %T\n", bt, bt)

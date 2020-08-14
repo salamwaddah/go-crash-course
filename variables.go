@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func variables() {
 	var number int = 42
 	fmt.Printf("%v, %T\n", number, number)
 
