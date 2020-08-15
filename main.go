@@ -5,4 +5,6 @@ func main() {
 	primatives()
 	constants()
 	arrays()
+	maps()
+	structs()
 }
