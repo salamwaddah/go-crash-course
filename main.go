@@ -9,4 +9,6 @@ func main() {
 	structs()
 	conditionals()
 	looping()
+	deferring()
+	panicker()
 }
