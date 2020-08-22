@@ -7,4 +7,5 @@ func main() {
 	arrays()
 	maps()
 	structs()
+	conditionals()
 }
