@@ -8,4 +8,5 @@ func main() {
 	maps()
 	structs()
 	conditionals()
+	looping()
 }
